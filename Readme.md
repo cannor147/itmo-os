@@ -6,23 +6,23 @@
 
 1. Основы использования консольного интерфейса OS Linux
     * **примерные темы:** _основы bash_
-    * [условия](https://github.com/cannor147/itmo-os/blob/master/lab01-basic/tasks.pdf), [решения](https://github.com/cannor147/itmo-os/blob/master/lab01-basic)
+    * [условия](lab01-basic/tasks.pdf), [решения](lab01-basic)
 2. Обработка текстовых потоков в OS Linux
     * **примерные темы:** _стандартные ввод и вывод процессов, перенаправление вывода, регулярные выражения в bash_
-    * [условия](https://github.com/cannor147/itmo-os/blob/master/lab02-strings/tasks.pdf), [решения](https://github.com/cannor147/itmo-os/blob/master/lab02-strings)
+    * [условия](lab02-strings/tasks.pdf), [решения](lab02-strings)
 3. Мониторинг процессов в OS Linux
     * **примерные темы:** _процессы, используемые процессами ресурсы_
-    * [условия](https://github.com/cannor147/itmo-os/blob/master/lab03-monitoring/tasks.pdf), [решения](https://github.com/cannor147/itmo-os/blob/master/lab03-monitoring)
+    * [условия](lab03-monitoring/tasks.pdf), [решения](lab03-monitoring)
 4. Управление процессами в OS Linux
     * **примерные темы:** _процессы, управление процессами, время запуска процессов, передача данных между процессами_
-    * [условия](https://github.com/cannor147/itmo-os/blob/master/lab04-process/tasks.pdf), [решения](https://github.com/cannor147/itmo-os/blob/master/lab04-process)
+    * [условия](lab04-process/tasks.pdf), [решения](lab04-process)
 
 5. Работа с файлово-каталожной системой в OS Linux
    * **примерные темы:** _основы работы с файлами и каталогами, ссылки, прямая и косвенная адресация каталогов_
-   * [условия](https://github.com/cannor147/itmo-os/blob/master/lab05-fs/tasks.pdf), [решения](https://github.com/cannor147/itmo-os/blob/master/lab05-fs)
+   * [условия](lab05-fs/tasks.pdf), [решения](lab05-fs)
 6. Консольный интерфейс OS Windows
    * **примерные темы:** _основы batch_
-   * [условия](https://github.com/cannor147/itmo-os/blob/master/lab06-batch/tasks.pdf), [решения](https://github.com/cannor147/itmo-os/blob/master/lab06-batch)
+   * [условия](lab06-batch/tasks.pdf), [решения](lab06-batch)
 
 # Полезные ссылки
 
