@@ -1,8 +1,8 @@
-# Операционные системы
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md) [![en](https://img.shields.io/badge/lang-ru-blue.svg)](README.ru.md)
 
-## Сведения о курсе
+# Операционные Системы
 
-Курс читался [Александром Маятиным](https://itmo.ru/ru/viewperson/1599/mayatin_aleksandr_vladimirovich.htm) в Университете ИТМО в 2019 году (year2017, 4 семестр).
+Курс подготовил и прочитал [Александр Маятин](https://itmo.ru/ru/viewperson/1599/mayatin_aleksandr_vladimirovich.htm) в Университете ИТМО в 2019 году (year2017, 4 семестр).
 
 ## Лабораторные работы
 
@@ -15,5 +15,5 @@
 
 ## Полезные ссылки
 
-* [Документация bash](https://devdocs.io/bash/)
-* [Документация batch](https://ss64.com/nt/)
+* [Документация bash (en)](https://devdocs.io/bash/)
+* [Документация batch (en)](https://ss64.com/nt/)
